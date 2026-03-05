@@ -1,0 +1,16 @@
+# Java
+*.class
+*.jar
+out/
+*.iml
+.idea/
+.DS_Store
+
+# C
+*.o
+*.out
+clox/clox
+clox/clox.exe
+
+# VS Code
+.vscode/
