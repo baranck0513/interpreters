@@ -14,3 +14,5 @@ clox/clox.exe
 
 # VS Code
 .vscode/
+
+book/
